@@ -5,7 +5,7 @@ label: gitops
 replicas: 3
 image:
   repository: asia.gcr.io/bubbly-area-374506/china_gcp_learning # 変更箇所 DOCKERHUB_REPO_NAME
-  tag: 8ee85c918a6103b0f4f6aead880a9d2bda894b55
+  tag: 77a99a6022669a3ee09836f87f078236d8861160
 
 imageConfig:
   pullPolicy: IfNotPresent
